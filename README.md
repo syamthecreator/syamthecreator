@@ -96,36 +96,6 @@ Building high quality cross platform applications with Flutter, Clean Architectu
 
 ---
 
-# 📂 Featured Projects
-
-### 🌐 Personal Portfolio
-Responsive portfolio built using HTML, CSS and JavaScript.
-
-🔗 https://syamthecreator.github.io/portfolio/
-
----
-
-### 📱 Flutter Applications
-
-- LMS Application
-- Attendance Management System
-- Medical Audiometry Application
-- Cross platform Business Applications
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syamthecreator&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamthecreator&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 📧 **Email**  
@@ -144,5 +114,4 @@ https://github.com/syamthecreator
 https://x.com/syamthecreator
 
 ---
-> **Code with purpose create impact.** 🚀
----
+> **Code with purpose create impact.**

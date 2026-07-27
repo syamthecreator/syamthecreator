@@ -23,46 +23,61 @@ Building high quality cross platform applications with Flutter and Dart.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-- Dart
-- Java/Kotlin
-- Html
-- Css
-- JavaScript
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Mobile Development
-- Flutter
-- Android
-- iOS
-- Flutter Web
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Flutter Web](https://img.shields.io/badge/Flutter_Web-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### State Management
-- Provider
-- BLoC
-- GetX
+
+![Provider](https://img.shields.io/badge/Provider-5C6BC0?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 
 ### Backend & Database
-- REST APIs
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Cloud Messaging
-- SQLite
-- SharedPreferences
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Firebase Authentication](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Cloud Messaging](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-607D8B?style=for-the-badge)
+![Local Notifications](https://img.shields.io/badge/Local_Notifications-4CAF50?style=for-the-badge)
 
 ### Architecture
-- Clean Architecture
-- MVVM
-- MVC
 
-### Tools
-- Git
-- GitHub
-- Postman
-- Figma
-- Google Play Console
-- App Store Connect
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E88E5?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-795548?style=for-the-badge)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+
+### AI & Productivity
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5E35B1?style=for-the-badge)
 
 ---
 

@@ -27,7 +27,10 @@ Building high quality cross platform applications with Flutter and Dart.
 
 ### Languages
 - Dart
-- Java
+- Java/Kotlin
+- Html
+- Css
+- JavaScript
 
 ### Mobile Development
 - Flutter
@@ -130,20 +133,6 @@ GitHub Pages Deployment
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syamthecreator&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syamthecreator&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamthecreator&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 📧 Email
@@ -166,7 +155,7 @@ https://syamthecreator.github.io/portfolio/
 
 ## 💡 Quote
 
-> Designing Tomorrow Through Thoughtful Code And Creativity.
+> Code with purpose create with impact.
 
 ---
 

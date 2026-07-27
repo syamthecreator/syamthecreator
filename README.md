@@ -147,6 +147,10 @@ https://linkedin.com/in/syamthecreator
 
 https://github.com/syamthecreator
 
+𝕏 Twitter
+
+https://x.com/syamthecreator
+
 🌐 Portfolio
 
 https://syamthecreator.github.io/portfolio/
